@@ -1,2 +1,2 @@
-Edited new readme file again.
-This is a new README file
+This is new readme file
+This is an edited version of the file
